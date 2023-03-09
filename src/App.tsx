@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 import AppRoutes from './Routes/AppRoutes';
-
+ 
 function App() {
   return (
     <div className="App">
@@ -8,7 +8,7 @@ function App() {
         <AppRoutes/>
       </header>
     </div>
-  );
+  ); 
 }
 
 export default App;
